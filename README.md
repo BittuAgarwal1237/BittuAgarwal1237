@@ -35,6 +35,28 @@ I believe in blending creativity with technology to design experiences that simp
 
 ---
 
+### 🛠 Key Skills & Technologies
+
+- **Mobile Development:**  
+  *Flutter | Android Studio | Java | Kotlin | Dart*
+
+- **Backend & Database:**  
+  *Firebase (Realtime DB, Firestore) | REST APIs*
+
+- **UI/UX:**  
+  *Clean, user-focused design | Responsive interfaces*
+
+- **Machine Learning Foundations:**  
+  *ML integration in mobile apps | Data preprocessing*
+
+- **Other Technologies & Tools:**  
+  *Git | GitHub | VS Code | Python | GitHub Actions | CI/CD basics*
+
+- **Soft Skills:**  
+  *Problem solving | Agile collaboration | Communication (English & Hindi)*
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BittuAgarwal1237&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" height="165" alt="GitHub Stats">
