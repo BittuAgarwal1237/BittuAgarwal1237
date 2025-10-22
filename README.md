@@ -1,80 +1,51 @@
-<!-- 🌌 Bittu Agarwal – Professional & Passionate Space-Themed GitHub Profile -->
+<!-- 🌠 Bittu Agarwal | Software Engineer -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1e2f&height=200&section=header&text=Bittu%20Agarwal%20🚀&fontColor=ffffff&fontSize=45&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1e2f&height=220&section=header&text=Bittu%20Agarwal%20%7C%20Software%20Engineer&fontColor=ffffff&fontSize=45&animation=twinkling)
 
+## 👋 Hello! I’m Bittu  
+I’m a Software Engineer based in Pune, India — combining creativity, logic and code to build intuitive, impactful apps that make learning effortless.
+
+> *“In code I see patterns. In design I see possibility. I create when both align.”*
+
+---
+
+### 🧭 My Focus  
+- **Flutter & Firebase** — crafting mobile experiences that feel native and fluid  
+- **Real-time systems** — connecting data, people and interaction in meaningful ways  
+- **Clean UI & efficient backend** — striking the balance between form and function  
+- **Continuous exploration** — always learning, always iterating  
+
+---
+
+### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="350" alt="Coding in Space">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,python,java,html,css,mysql,git,github&theme=dark" alt="Tech icons">
 </p>
 
 ---
 
-## 👋 Hey there, I'm Bittu Agarwal  
-
-I’m a **Software Engineer** driven by creativity, curiosity, and code.  
-I love building digital experiences that make learning simple, smart, and accessible for everyone.  
-
-> 💫 *“For me, code isn’t just logic — it’s imagination structured into reality.”*
-
-I’ve spent the past year expanding my coding universe — exploring, creating, and contributing to projects that make a difference. Every line of code I write is part of my journey toward mastering my craft. 🌠  
-
----
-
-### 🧠 My Focus Areas
-- 🚀 Flutter + Firebase development for intuitive mobile apps  
-- 🧩 Real-time systems that connect students, teachers, and data  
-- 💻 Clean UI + robust backend logic  
-- 🪐 Exploring AI integrations for smarter solutions  
-
----
-
-### 🛠️ My Tech Universe  
-
+### 📊 GitHub Profile  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,python,java,html,css,mysql,git,github,vscode&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=BittuAgarwal1237&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="GitHub stats">
 </p>
 
 ---
 
-### 💼 Developer Journey Highlights  
-
-✨ Built and deployed multiple apps focused on education and management.  
-🌌 Experimented with real-time data integration using Firebase Realtime Database.  
-🧠 Continuously learning and contributing to open-source and personal projects.  
-🌱 Believe in constant evolution — just like the expanding universe.  
-
----
-
-### 🌟 GitHub Activity Overview  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BittuAgarwal1237&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" height="165">
-  <img src="https://streak-stats.demolab.com?user=BittuAgarwal1237&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BittuAgarwal1237&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&line=79ff97&point=ffffff">
-</p>
+### ⚙️ What I’ve been doing this past year  
+- Built and deployed multiple educational & management-focused applications  
+- Integrated real-time data flows using Firebase Realtime Database  
+- Contributed to open-source & personal projects to hone my craft  
+- Focused on writing code that’s maintainable, scalable and meaningful  
 
 ---
 
-### 🪙 Contribution Galaxy  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BittuAgarwal1237&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-</p>
-
-> 🌠 *In the past year, I’ve made hundreds of contributions — every one bringing me closer to mastery.*
-
----
-
-### 🧩 About My Coding Philosophy  
-
-💬 I believe great software should feel effortless — like it just *belongs* in the user’s world.  
-🔥 I love the satisfaction of solving tricky problems and seeing ideas come alive.  
-💡 My goal is to build technology that empowers others — and inspires creativity.  
+### 🧩 My Philosophy  
+I believe software should effortlessly belong in the user’s world — invisible when it works, memorable when it doesn’t.  
+I seek that “aha” moment in design, that elegant logic in code, and that spark of joy in building something useful.  
+Let’s build something great.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:000000&height=120&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:000000&height=100&section=footer" alt="Footer wave">
 </p>
