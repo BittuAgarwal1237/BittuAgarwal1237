@@ -1,51 +1,75 @@
-<!-- 🌠 Bittu Agarwal | Software Engineer -->
+<!-- 🌌 Bittu Agarwal | Software Engineer | Flutter | Firebase | ML Enthusiast -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1e2f&height=220&section=header&text=Bittu%20Agarwal%20%7C%20Software%20Engineer&fontColor=ffffff&fontSize=45&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1e2f&height=220&section=header&text=Bittu%20Agarwal%20🚀&fontColor=ffffff&fontSize=45&animation=twinkling)
 
-## 👋 Hello! I’m Bittu  
-I’m a Software Engineer based in Pune, India — combining creativity, logic and code to build intuitive, impactful apps that make learning effortless.
+## 👋 Hello there! I’m Bittu Agarwal  
+I’m a **Software Engineer** from **Gujarat, India**, passionate about creating intuitive and impactful digital solutions.  
+I believe in blending creativity with technology to design experiences that simplify learning and inspire innovation.
 
-> *“In code I see patterns. In design I see possibility. I create when both align.”*
+> 💫 *“I don't just write code — I craft experiences that connect people and technology.”*
+
+---
+
+### 🚀 What I’m Currently Doing
+- 👨‍💻 Working on **Flutter + Firebase** projects focused on real-time learning and management.  
+- 🤝 Contributing to **open-source projects** to collaborate and learn from the community.  
+- 🧠 Learning **Machine Learning (ML)** and exploring its integration in mobile apps.  
+- 💬 Fluent in **English** and **Hindi**.  
+- 📍 Based in **Gujarat, India**.  
 
 ---
 
 ### 🧭 My Focus  
-- **Flutter & Firebase** — crafting mobile experiences that feel native and fluid  
-- **Real-time systems** — connecting data, people and interaction in meaningful ways  
-- **Clean UI & efficient backend** — striking the balance between form and function  
-- **Continuous exploration** — always learning, always iterating  
+- 🚀 Building smooth and scalable Flutter applications  
+- 🔥 Designing clean, user-focused UI/UX experiences  
+- ⚡ Integrating Firebase and real-time data flows  
+- 🌱 Exploring AI & ML-powered applications  
+- 🪐 Continuous learning and contribution  
 
 ---
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,python,java,html,css,mysql,git,github&theme=dark" alt="Tech icons">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,python,java,html,css,mysql,git,github,vscode&theme=dark" alt="Tech Stack Icons">
 </p>
 
 ---
 
-### 📊 GitHub Profile  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BittuAgarwal1237&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BittuAgarwal1237&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&icon_color=79ff97" height="165" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=BittuAgarwal1237&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak">
 </p>
 
 ---
 
-### ⚙️ What I’ve been doing this past year  
-- Built and deployed multiple educational & management-focused applications  
-- Integrated real-time data flows using Firebase Realtime Database  
-- Contributed to open-source & personal projects to hone my craft  
-- Focused on writing code that’s maintainable, scalable and meaningful  
+### 💼 Developer Journey Highlights  
+✨ Developed and deployed multiple educational and management apps.  
+🌌 Worked with real-time databases to create dynamic and interactive systems.  
+🌱 Always eager to learn, improve, and contribute to open-source communities.  
+🧩 Believe in writing code that’s clean, efficient, and maintainable.  
 
 ---
 
-### 🧩 My Philosophy  
-I believe software should effortlessly belong in the user’s world — invisible when it works, memorable when it doesn’t.  
-I seek that “aha” moment in design, that elegant logic in code, and that spark of joy in building something useful.  
-Let’s build something great.
+### 🌠 About Me  
+I’m a passionate learner who enjoys transforming complex problems into elegant digital solutions.  
+Beyond coding, I love exploring how design and technology can empower people to learn and grow.
+
+---
+
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/BittuAgarwal1237" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BittuAgarwal1237-181717?style=for-the-badge&logo=github" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/bittu-agarwal-296904373/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bittu%20Agarwal-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:000000&height=100&section=footer" alt="Footer wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:000000&height=100&section=footer" alt="Footer Wave">
 </p>
